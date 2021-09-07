@@ -1,6 +1,6 @@
 # finance_ui_app
 
-Finance UI Calismam
+Flutterda modern finans uygulaması tasarımı.
 
 ## Getting Started
 
